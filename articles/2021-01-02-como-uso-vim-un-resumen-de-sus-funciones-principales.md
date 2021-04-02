@@ -1,10 +1,4 @@
----
-layout: post
-title: Como uso VIM, guía definitiva.
-date: 2021-01-02 22:40 -0300
----
-
-### Entrando y saliendo de VIM.
+# Entrando y saliendo de VIM.
 vim nombre\_del\_archivo para abrir vim   
 :w: guarda el archivo.   
 :q  sale, :q! para forzar la salida.
@@ -16,7 +10,8 @@ Se puede salir usando también Shift+zq (salir sin guardar :q) o Shift+zz (guard
 Si abrís vim sin el nombre del archivo. O sea sólo escribiendo vim, cuando guardás vas
 a tener que asignar el nombre del archivo haciendo :w \<nombre del archivo\>
 #### Navegación.
-<img src="{{site.baseurl}}/assets/img/vim_keys_hjkl.jpeg"/>
+![umita](pix/umita.jpg)
+
 > La tecla h está a la izquierda y mueve a la izquierda.   
   La tecla l está a la derecha y mueve a la derecha.   
   La tecla j parece una flecha que apunta hacia abajo.   
