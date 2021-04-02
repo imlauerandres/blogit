@@ -10,6 +10,7 @@ Se puede salir usando también Shift+zq (salir sin guardar :q) o Shift+zz (guard
 Si abrís vim sin el nombre del archivo. O sea sólo escribiendo vim, cuando guardás vas
 a tener que asignar el nombre del archivo haciendo :w \<nombre del archivo\>
 #### Navegación.
+
 ![umita](pix/umita.jpg)
 
 > La tecla h está a la izquierda y mueve a la izquierda.   
